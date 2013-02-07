@@ -131,7 +131,7 @@ msgstr "Programator"
 
 #: Editor.java:699
 msgid "Burn Bootloader"
-msgstr "Încărcă Bootloader"
+msgstr "Încarcă Bootloader"
 
 #: Editor.java:923
 msgid "serialMenu is null"
@@ -239,7 +239,7 @@ msgstr "Caută..."
 
 #: Editor.java:1235
 msgid "Find Next"
-msgstr "Caută urmatorul..."
+msgstr "Caută următorul..."
 
 #: Editor.java:1245
 msgid "Find Previous"
@@ -400,7 +400,7 @@ msgstr "Exportul a fost anulat, modificările trebuiesc întâi salvate."
 
 #: Editor.java:2457
 msgid "Burning bootloader to I/O Board (this may take a minute)..."
-msgstr "Se încarcă bootloader-ul în placa de dezvoltare (acest lucru o sa dureze un pic)..."
+msgstr "Se încarcă bootloader-ul în placa de dezvoltare (acest lucru o să dureze un pic)..."
 
 #: Editor.java:2463
 msgid "Done burning bootloader."
@@ -477,7 +477,7 @@ msgstr "Ignoră majuscule"
 
 #: FindReplace.java:105
 msgid "Wrap Around"
-msgstr "Contiunuă de la început"
+msgstr "Continuă de la început"
 
 #: FindReplace.java:120 FindReplace.java:131
 msgid "Replace All"
@@ -521,7 +521,7 @@ msgstr "Revenire cursor (ENTER)"
 
 #: SerialMonitor.java:112
 msgid "Both NL & CR"
-msgstr "NL & CR (linie noua şi enter)"
+msgstr "NL & CR (linie nouă şi enter)"
 
 #: SerialMonitor.java:130 SerialMonitor.java:133
 msgid " baud"
@@ -712,7 +712,7 @@ msgstr "Numele nu poate începe cu un spaţiu"
 #: Sketch.java:368
 #, java-format
 msgid "\".{0}\" is not a valid extension."
-msgstr "\".{0}\" nu este o extensie acceptata."
+msgstr "\".{0}\" nu este o extensie acceptată."
 
 #: Sketch.java:378
 msgid ""
@@ -743,7 +743,7 @@ msgid ""
 "because the sketch already has a .cpp file with that name."
 msgstr ""
 "Nu poţi redenumi schiţa în \"{0}\"\n"
-"deoarece aceasta schiţa are deja un fişier .cpp cu acelaşi nume."
+"deoarece aceasta schiţă are deja un fişier .cpp cu acelaşi nume."
 
 #: Sketch.java:459
 msgid "Cannot Rename"
@@ -823,7 +823,7 @@ msgid ""
 "\n"
 "Save sketch and update its extension?"
 msgstr ""
-"În Arduino 1.0, extensia implicita pentru fişiere a fost schimbata\n"
+"În Arduino 1.0, extensia implicită pentru fişiere a fost schimbată\n"
 "din .pde în .ino.  Noile schiţe (incluzând cele create\n"
 "cu  \"Salvează ca\") vor utiliza noua extensie.  Extensia\n"
 "schiţelor existente va fi modificată odată cu salvarea acestor fişiere, dar puteţi\n"
@@ -937,7 +937,7 @@ msgstr ""
 
 #: Sketch.java:1719
 msgid "Missing the */ from the end of a /* comment */"
-msgstr "Lipsa */ de la sfârşitul unui /* comentariu */"
+msgstr "Lipsă */ de la sfârşitul unui /* comentariu */"
 
 #: Sketch.java:1761
 msgid "Sketch Disappeared"
@@ -977,7 +977,7 @@ msgstr ""
 
 #: debug/AvrdudeUploader.java:96
 msgid "Forcing reset using 1200bps open/close on port "
-msgstr "Se forţează resetul folosind un port inchis /deschis la 1200bps"
+msgstr "Se forţează resetul folosind un port inchis/deschis la 1200bps"
 
 #: debug/AvrdudeUploader.java:151
 msgid ""
@@ -986,8 +986,8 @@ msgid ""
 "button after initiating the upload."
 msgstr ""
 "Nu am găsit placa Leonardo pe portul selectat. Verifică daca portul "
-"selectat este corect. Daca portul este corect încearca să apeşi butonul de reset"
-"imediat după ieţirea din upload."
+"selectat este corect. Daca portul este corect încearcă să apeşi butonul de reset"
+"imediat după ieşirea din upload."
 
 #: debug/Uploader.java:52
 msgid "https://developer.berlios.de/bugs/?group_id=3590"
@@ -1048,7 +1048,7 @@ msgstr "Eroare de compilare"
 
 #: debug/Compiler.java:468
 msgid "Please import the SPI library from the Sketch > Import Library menu."
-msgstr "Te rog importa biblioteca SPI din meniul Schiţe > Importă bibliotecă."
+msgstr "Te rog importă biblioteca SPI din meniul Schiţe > Importă bibliotecă."
 
 #: debug/Compiler.java:469
 msgid ""
@@ -1162,11 +1162,11 @@ msgstr ""
 
 #: debug/Compiler.java:510
 msgid "'Mouse' only supported on the Arduino Leonardo"
-msgstr ""
+msgstr "'Mouse' este suportat doar de Arduino Leonardo"
 
 #: debug/Compiler.java:515
 msgid "'Keyboard' only supported on the Arduino Leonardo"
-msgstr ""
+msgstr "'Keyboard' este suportat doar de Arduino Leonardo"
 
 #: EditorConsole.java:152
 msgid "Console Error"
@@ -1177,12 +1177,12 @@ msgid ""
 "A problem occurred while trying to open the\n"
 "files used to store the console output."
 msgstr ""
-"O problema a apărut în timp ce încercam sa deschid\n"
+"O problemă a apărut în timp ce încercam sa deschid\n"
 "fişierul folosit pentru stocarea datelor din consolă."
 
 #: Base.java:184
 msgid "Non-fatal error while setting the Look & Feel."
-msgstr "Eroare non-fatala în timpul iniţializării interfeţei cu utilizatorul"
+msgstr "Eroare non-fatală în timpul iniţializării interfeţei cu utilizatorul"
 
 #: Base.java:185
 msgid "The error message follows, however Arduino should run fine."
@@ -1197,7 +1197,7 @@ msgid ""
 "An unknown error occurred while trying to load\n"
 "platform-specific code for your machine."
 msgstr ""
-"O eroare necunoscută în timp ce se încarca\n"
+"O eroare necunoscută în timp ce se încarcă\n"
 "codul specific pentru sistemul tău de operare."
 
 #: Base.java:232
@@ -1229,7 +1229,7 @@ msgstr ""
 "Dosarul cu schiţe nu mai există.\n"
 "Arduino va comuta pe locaţia implicită a directorului\n"
 "de schiţe, şi dacă e necesar va crea un nou dosar cu schiţe.\n"
-" Arduino nu va mai vorbi despre el\n"
+"Apoi Arduino nu va mai vorbi despre el\n"
 "la persoana a treia."
 
 #: Base.java:532
@@ -1264,7 +1264,7 @@ msgid ""
 msgstr ""
 "<html> <head> <style type=\"text/css\">b { font: 13pt \"Lucida Grande\" }p "
 "{ font: 11pt \"Lucida Grande\"; margin-top: 8px }</style> </head><b>Sunteţi sigur "
-"că doriţi să părăsiţi aplicaţia?</b><p>Închizând ultima schiţa se va închide şi Arduino IDE."
+"că doriţi să părăsiţi aplicaţia?</b><p>Închizând ultima schiţă se va închide şi Arduino IDE."
 
 #: Base.java:970
 msgid "Contributed"
@@ -1280,7 +1280,7 @@ msgid ""
 "You may need to restart Arduino to update\n"
 "the sketchbook menu."
 msgstr ""
-"Schiţa selectata nu mai există.\n"
+"Schiţa selectată nu mai există.\n"
 "S-ar putea să fie nevoie sa reporneşti programul\n"
 "pentru a actualiza meniul dosarului de schiţe."
 
@@ -1356,7 +1356,7 @@ msgstr "Selectează (sau creează un nou) director pentru schiţe..."
 
 #: Base.java:1647
 msgid "Problem Opening URL"
-msgstr "Problema in deschiderea URL"
+msgstr "Problemă in deschiderea URL"
 
 #: Base.java:1648
 #, java-format
@@ -1369,7 +1369,7 @@ msgstr ""
 
 #: Base.java:1671
 msgid "Problem Opening Folder"
-msgstr "Problema la deschiderea directorului"
+msgstr "Problemă la deschiderea directorului"
 
 #: Base.java:1672
 #, java-format
@@ -1441,7 +1441,7 @@ msgstr "Nu se poate şterge {0}"
 
 #: EditorHeader.java:292
 msgid "New Tab"
-msgstr "Fila nouă"
+msgstr "Filă nouă"
 
 #: EditorHeader.java:300
 msgid "Rename"
@@ -1630,7 +1630,7 @@ msgid ""
 "Could not read default settings.\n"
 "You'll need to reinstall Arduino."
 msgstr ""
-"Nu s-a putut citi setările implicite.\n"
+"Nu s-au putut citi setările implicite.\n"
 "Va trebui să reinstalezi Arduino IDE."
 
 #: Preferences.java:250
@@ -1697,7 +1697,7 @@ msgstr "Caută actualizări la pornirea programului"
 
 #: Preferences.java:420
 msgid "Update sketch files to new extension on save (.pde -> .ino)"
-msgstr "Se schimba extensia fişierelor schiţă la salvare (.pde -> .ino)"
+msgstr "Se schimbă extensia fişierelor schiţă la salvare (.pde -> .ino)"
 
 #: Preferences.java:431
 msgid "Automatically associate .ino files with Arduino"
